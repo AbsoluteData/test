@@ -9,9 +9,10 @@ public class LocationData {
 		List<ColWithData> cwdList = null;
 		tcList = new ArrayList<TableClass>();
 		TableClass tClass = null;
-//		ColWithData cwd = null;
-//		
-//		//1
+		ColWithData cwd = null;
+		
+	1
+	system.debug('hello');
 //		
 //		cwdList = new ArrayList<ColWithData>();
 //		
